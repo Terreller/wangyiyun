@@ -18,10 +18,6 @@ node app.js
 
 vue
 
-路由结构如下
-
-以下是组件
-
 1.歌单部分： 数据主要由API提供，源码中有具体地址。
 
 2.搜索部分： 通过绑定@keydown来绑定事件，实现实时查询。
@@ -31,8 +27,6 @@ mint-ui
 实现功能: 1. 图片懒加载 2.无限滚动
 
 具体请参考文档mint-ui
-
-最后上几张效果图
 
 码云项目地址：https://gitee.com/leiyu1314/wangyiyunMusic.git
 
